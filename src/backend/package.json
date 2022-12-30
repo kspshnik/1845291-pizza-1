@@ -46,7 +46,7 @@
     "@loopback/authentication-jwt": "^0.9.0",
     "@loopback/boot": "^3.0.1",
     "@loopback/core": "^2.10.1",
-    "@loopback/repository": "^3.0.1",
+    "@loopback/repository": "^3.7.3",
     "@loopback/rest": "^9.3.0",
     "@loopback/rest-explorer": "^3.0.1",
     "@loopback/service-proxy": "^3.0.1",
